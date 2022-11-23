@@ -1,0 +1,9 @@
+beans\Peliculas.class
+testDB\OpereacionesDB.class
+servelts\PruebaServelt.class
+beans\Alquiler.class
+controller\IUsuariosController.class
+controller\UsuariosController.class
+servelts\ServeltUsuarioLogin.class
+beans\Usuarios.class
+connection\DBConnection.class
