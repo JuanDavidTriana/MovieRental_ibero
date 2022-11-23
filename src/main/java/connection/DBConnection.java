@@ -8,11 +8,11 @@ import java.sql.DriverManager;
 public class DBConnection {
     
     Connection connection;
-    static String bd = "ibero_peliculas";
-    static String port = "3308";
+    static String bd = "railway";
+    static String port = "5711";
     static String login = "root";
-    static String password = "";
-    static String ip = "localhost";
+    static String password = "DwwFdR8sRbQnnVg2kDyH";
+    static String ip = "containers-us-west-16.railway.app";
 
     public DBConnection() {
             try {

@@ -7,3 +7,4 @@ controller\UsuariosController.class
 servelts\ServeltUsuarioLogin.class
 beans\Usuarios.class
 connection\DBConnection.class
+servelts\ServletUsuarioRegister.class
